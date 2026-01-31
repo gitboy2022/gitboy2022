@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gitboy2022! 
 - 👀 I’m interested in coding! 
-- 🌱 I’m currently learning java! 
+- 🌱 I’m currently learning by focusing on my schoolwork! 
 - 💞️ I’m looking to collaborate on nothing yet! 
-- 📫 How to reach me is none! 
+- 📫 How to reach me is my email! 
 
 <!---
 gitboy2022/gitboy2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
